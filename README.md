@@ -10,7 +10,7 @@ Cryptoverse app provides in-depth data about all <b>Cryptocurrencies, Crypto Mar
 <br />
 
 ## Used Technology:
-This application was built using <b>React, Redux Toolkit, Ant Design and Chart.js</b>. <br/>
+This application was built using <b>React, Redux Toolkit and Ant Design</b>. <br/>
 It also uses <b>CoinRanking and Bing News Search APIs</b> powered by <b>[RapidApi](https://rapidapi.com/)</b>.
 
 <br />
